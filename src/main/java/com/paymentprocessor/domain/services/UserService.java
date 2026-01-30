@@ -1,4 +1,4 @@
-package com.paymentprocessor.services;
+package com.paymentprocessor.domain.services;
 
 import com.paymentprocessor.domain.entities.user.User;
 import com.paymentprocessor.domain.entities.user.UserType;

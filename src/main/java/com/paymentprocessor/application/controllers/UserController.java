@@ -1,8 +1,8 @@
-package com.paymentprocessor.controllers;
+package com.paymentprocessor.application.controllers;
 
 import com.paymentprocessor.domain.entities.user.User;
 import com.paymentprocessor.dtos.UserDTO;
-import com.paymentprocessor.services.UserService;
+import com.paymentprocessor.domain.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
