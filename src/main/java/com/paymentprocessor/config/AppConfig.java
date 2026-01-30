@@ -1,4 +1,4 @@
-package com.paymentprocessor.infra;
+package com.paymentprocessor.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
