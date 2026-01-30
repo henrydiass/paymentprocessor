@@ -1,4 +1,4 @@
-package com.paymentprocessor.infra;
+package com.paymentprocessor.config;
 
 import com.paymentprocessor.dtos.ExceptionDTO;
 import jakarta.persistence.EntityNotFoundException;
